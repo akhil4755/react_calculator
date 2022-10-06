@@ -1,0 +1,4 @@
+This application basically is to create a basic calculator.
+
+//Future features:
+Scientific calculator
