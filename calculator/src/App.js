@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React native 
+          Learn React JS
         </a>
         <Button value="Start calculating" />
       </header>
