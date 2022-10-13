@@ -16,7 +16,7 @@ function App() {
         >
           Learn React JS
         </a>
-        <Button value="Start" />
+        <Button value="Calculate" />
       </header>
     </div>
   );
