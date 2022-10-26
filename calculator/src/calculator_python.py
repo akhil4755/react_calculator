@@ -7,3 +7,7 @@ if(operation == '/'):
   if(b == 0):
     print("Invalid")
     quit()
+
+if(operation!='+' or operation!='-' or operation!='*' or operation!='/'):
+  print("Invlaid input")
+  quit()
