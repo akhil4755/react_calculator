@@ -11,3 +11,5 @@ if(operation == '/'):
 if(operation!='+' or operation!='-' or operation!='*' or operation!='/'):
   print("Invlaid input")
   quit()
+
+print("Output")
